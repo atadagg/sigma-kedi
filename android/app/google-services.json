@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "791116583761",
+    "project_id": "sigmakedi",
+    "storage_bucket": "sigmakedi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791116583761:android:532f02313e1e66165e3970",
+        "android_client_info": {
+          "package_name": "com.sigmakedi.formapeople"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791116583761-upqg9recd5upj92u438ved1mef9j6sph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdj3d4DN3o3Y6EfJz2flYhZnrt8Glj368"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791116583761-upqg9recd5upj92u438ved1mef9j6sph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
